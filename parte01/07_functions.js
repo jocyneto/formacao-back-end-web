@@ -8,6 +8,8 @@ Já na forma da EXPRESSION e ARROW-FUNCTION ela precisa ser declarada antes do s
 ---------------------------------------------------------------------------------------------------
 HOISTING:
 Conceitualmente, por exemplo, uma definição estrita de elevação sugere que as declarações de variáveis e funções são fisicamente movidas para o topo do seu código, mas isso não é realmente o que acontece. Em vez disso, as declarações de variável e função são colocadas na memória durante a fase de compilação, mas permanecem exatamente onde você as digitou no seu código.
+
+fonte: https://developer.mozilla.org/pt-BR/docs/Glossary/Hoisting
 ---------------------------------------------------------------------------------------------------
 
 */
