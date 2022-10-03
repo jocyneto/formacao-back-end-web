@@ -12,4 +12,8 @@
 
 ## PARTE 02
 
-*
+* Aprendendo como são arrays e porque são importantes
+* Alterar arrays com os métodos do JS
+* Laços de repetição em JS
+* Modifique arrays utilizando métodos do JS moderno (ES6 em diante)
+
